@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    <item android:title="Services"
+        android:id="@+id/t1"
+        android:icon="@drawable/setting"
+
+   />
+        />
+    <item android:title="Technologies"
+
+
+        />
+    <item android:title="Explore"/>
+
+
+
+</menu>

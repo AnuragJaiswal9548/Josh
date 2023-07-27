@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Josh</string>
+    <string name="text">
+
+        <p>
+           Josh Tech was incorporated in 1998, to focus on the burgeoning
+            <br>Service industry. Josh Tech is head quartered in Bangalore.</br>
+        </p>
+
+    </string>
+    <string name="str">
+        <br> Address - # C-13, KSSIDC Industrial Estate,</br>
+        <br>Rajajinagar, Bengaluru,</br>
+        <br>Karnataka 560044</br>
+    </string>
+
+    <string name="Broadband">
+
+NSN - SURPASS hiX 56 IP\n
+UTStarcom - AN-FTTB, AN2000B, iAN-8000, iAN81000\n
+Telsima - 4G Wimax\n
+Modems/CPE, Switches/Routers
+
+    </string>
+    <string name="switching">
+    ZTE - BTS - ZXG10\n
+    Siemens - BTS - BS240\n
+    Repeaters\n
+    Mobiles - MicroMax, Nokia\n
+    Nokia Solution Networks EWSD\n
+    Ericsson - AXE-10\n
+    Alcatel Lucent - OCB–283 E–10B 5ESS\n
+    </string>
+
+    <string name="transmission">
+    NSN - Flexi Hopper and Flexi Hybrid\n
+    NEC – Pasolink\n
+    </string>
+
+
+    <string name="c1">
+    Even in the event of spiralling field returns, you can still be in control of your after sales budget, with our flat, all-inclusive repair rates. No Fixed Quarterly/ AMC Charges, as you pay for actual units repaired and not for all working units!\n
+    Our five Repair facilities across India ensure reduced transportation costs and faster turnaround time.\n
+    With us, your repairs are easier to monitor and manage, as service is available for multiple makes/manufacturers under one roof. Your Stand-by and Spare inventory can be reduced considerably due to quicker RMA turnaround, with an added bonus of 99% repair yield as no unit will be declared as BER or CNR.\n
+    </string>
+</resources>

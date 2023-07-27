@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".B1">
+
+    <ImageView
+        android:layout_width="410dp"
+        android:layout_height="113dp"
+        android:src="@drawable/b11" />
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img4"
+        android:layout_marginStart="30dp"
+        android:text="Repair"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt1"
+        android:layout_marginTop="10dp"
+        android:text="We provide end-to-end reverse logistics solutions to take complete care of your electronic products. This frees you to focus on your core competencies like product design and launch. Service in India is a reality even for imported electronic products through our innovative in-house indigenous repair solutions for any circuit board." />
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:id="@+id/txt3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img4"
+        android:layout_marginStart="30dp"
+        android:text="Refurb"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Refurb all your non-moving inventory and resell them with fine finish and full warranty. Expand your network even without increasing your capex."
+        android:layout_below="@+id/txt1"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:id="@+id/txt5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img4"
+        android:layout_marginStart="30dp"
+        android:text="Recovery"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/txt6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Repair your products declared as non-repairable, repair not possible (RNP), beyond economic repairs (BER), beyond scope of repair (BSR). Re-screen your scrap products for reparability before processing for E-waste"
+        android:layout_below="@+id/txt1"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:id="@+id/txt7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img4"
+        android:layout_marginStart="30dp"
+        android:text="Testing"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/txt8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Analyse your field returns with our expert root cause analysis to improve your initial designs. Get high end test services like boundary scan and flying probe, X-ray, etc to increase your test coverage and testability of your new designs. "
+        android:layout_below="@+id/txt1"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:id="@+id/txt9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img4"
+        android:layout_marginStart="30dp"
+        android:text="Value Added Services"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/txt10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Other Customised like Micro-electronics repair of BGAs, BGA Pads.  Increasing dust, moisture and thermal resistance of products, pre-sales ECN - Engineering Change Notice bulk at customer location."
+        android:layout_below="@+id/txt1"
+        android:layout_marginTop="10dp"
+        />
+</LinearLayout>
